@@ -35,14 +35,18 @@ const posts = (await getCollection('blog')).sort(
 	</head>
 	<body>
 		<Header />
+		<h1 class="title mb-6">Yao's Posts</h1>
 		<main>
-			<section>
-				<ul>
+			<section class="grid gap-y-16 sm:grid-cols-[3fr_1fr] sm:gap-x-8">
+				<ul class="text-xl space-y-8 text-left">
 					{
 						posts.map((post) => (
-							<li>
+
+							<li class="flex flex-col flex-wrap gap-x-2 sm:flex-row [&_q]:w-full">
 								<FormattedDate date={post.data.pubDate} />
+
 								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+								<q class="line-clamp-3 mt-2 block italic">{post.data.description}</q>
 							</li>
 						))
 					}

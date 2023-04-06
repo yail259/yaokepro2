@@ -1,7 +1,7 @@
 ---
 title: "Dream + Strategy"
 description: "What is the point of living?"
-pubDate: "Mar 23 2023"
+pubDate: "23 Mar 2023"
 heroImage: "/rainbow-serpent.jpg"
 ---
 
@@ -77,4 +77,34 @@ None of these 4 requirements are easy, but once you satisfy all 4 of them to som
 meaningful and fulfilling dream.
 
 # Strategy
+
+Now that you have a most excellent dream to pursue, it's time for a strategy. I watched this Harvard Business School
+Youtube video on how a plan is not a strategy, and it really brought into words what I've been thinking about for a
+long time. Out of a 100 people, maybe 50 of them work pretty hard. And yet out of the 50, maybe 5-10 find the 
+success that they were seeking, why is that?
+
+It seems like there is a disconnect between hardwork and achieving your desired outcome, and one of the key factors is
+definitely strategy. A plan is simply a series of steps to carry out. Imagine a game of monopoly, a plan may be to
+buy some houses and roll the dice well. A strategy however, involves forming alliances with your fellow players, 
+analysing which houses are the most valuable to buy and re-evaluating the concrete plan at every major change in the
+game's dynamic. If my dream is to become a really good teacher, a plan would be to prepare for some lessons and 
+show up to class, but a strategy would be to talk to the students and understand what they are struggling with, talk
+to the other teachers to get a feel for the school and finally develop a teaching plan that is catered to the situation.
+
+Plans are easy to make. You just follow the standard procedure and take very little responsibility for the outcome. It 
+is comfortable. However, for any task less trivial than vacuuming the house, it's bound to lead to a result that is 
+at best average, and at worst terrible. A strategy is unsettling. It requires you to think about the situation, 
+identify the factors at play, and make predictions about the future. It requires you to take responsibility for taking
+the outcome to a level beyond average and admit that your strategy was wrong in case it doesn't work out. However, 
+to achieve any non-trivial dream, it is a necessity in turning a vision into not just a plan, but a series of plans 
+which are adaptable and functional.
+
+This is not to say that for a 5 year plan, you should have a clear vision of what should happen in the 4th year from
+January to December. Accounting for uncertainty should be a part of the strategy, and the more short-term/certain
+the situation, the more concrete the strategy should be in terms of actions. 
+
+***
+
+None of this is easy, but it's certainly worthwhile to master.
+
 
